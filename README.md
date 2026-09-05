@@ -37,6 +37,8 @@ A focused methodological note on endogeneity in empirical OM research, including
 * Quasi-experimental approaches
 * Statistical remedies
 
+This note provides an expanded treatment of the endogeneity section included in the main handbook.
+
 [Download the Endogeneity Note](./Endogeneity%20in%20OM%20Empirical%20Research.pdf)
 
 ## Author
